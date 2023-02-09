@@ -1,0 +1,15 @@
+C:\Users\alex\geekbrains\Seminar4\array_odd\bin\Debug\net7.0\array_odd.exe
+C:\Users\alex\geekbrains\Seminar4\array_odd\bin\Debug\net7.0\array_odd.deps.json
+C:\Users\alex\geekbrains\Seminar4\array_odd\bin\Debug\net7.0\array_odd.runtimeconfig.json
+C:\Users\alex\geekbrains\Seminar4\array_odd\bin\Debug\net7.0\array_odd.dll
+C:\Users\alex\geekbrains\Seminar4\array_odd\bin\Debug\net7.0\array_odd.pdb
+C:\Users\alex\geekbrains\Seminar4\array_odd\obj\Debug\net7.0\array_odd.csproj.AssemblyReference.cache
+C:\Users\alex\geekbrains\Seminar4\array_odd\obj\Debug\net7.0\array_odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\geekbrains\Seminar4\array_odd\obj\Debug\net7.0\array_odd.AssemblyInfoInputs.cache
+C:\Users\alex\geekbrains\Seminar4\array_odd\obj\Debug\net7.0\array_odd.AssemblyInfo.cs
+C:\Users\alex\geekbrains\Seminar4\array_odd\obj\Debug\net7.0\array_odd.csproj.CoreCompileInputs.cache
+C:\Users\alex\geekbrains\Seminar4\array_odd\obj\Debug\net7.0\array_odd.dll
+C:\Users\alex\geekbrains\Seminar4\array_odd\obj\Debug\net7.0\refint\array_odd.dll
+C:\Users\alex\geekbrains\Seminar4\array_odd\obj\Debug\net7.0\array_odd.pdb
+C:\Users\alex\geekbrains\Seminar4\array_odd\obj\Debug\net7.0\array_odd.genruntimeconfig.cache
+C:\Users\alex\geekbrains\Seminar4\array_odd\obj\Debug\net7.0\ref\array_odd.dll
